@@ -1,0 +1,6 @@
+- #Acíclico André
+	- Maior dificuldade: O registro de acompanhamento de lavadora é em papel, o que é bem ruim para todo o processo. Além de ter reclamado que o paperless exige muito tempo para registrar os cartões da sala de formas e é mais rápido anotar os dados na mão ou no Excel
+- #Ajustador Erivaldo
+	- Não tem uma maior dificuldade
+- #Operador Vincícius
+	- Maior dificuldade: Reclamou do registro de acompanhamento de lavadora também, mas a principal reclamação foi que os IT's Digitais não abrem já faz um tempo

@@ -1,0 +1,8 @@
+- Chefe de Produção: ?
+- Manutentor: Faz a manutenção das máquinas
+- Ajustador: Faz o setup da máquina
+- Operador: Opera a máquina
+- Acíclico: Ajuda por fora da linha
+- Planejador: Analisa os dados das máquinas e planeja coisas
+- LTI
+- LTU
