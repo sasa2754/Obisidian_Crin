@@ -4,3 +4,5 @@
 	- Não tem uma maior dificuldade
 - #Operador Vincícius
 	- Maior dificuldade: Reclamou do registro de acompanhamento de lavadora também, mas a principal reclamação foi que os IT's Digitais não abrem já faz um tempo
+- #Operador Bruno
+	- Maior dificuldade: As ITs Digitais não estão abrindo faz tempo

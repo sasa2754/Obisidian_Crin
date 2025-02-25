@@ -1,4 +1,4 @@
-[[Avaliações das pessoas]]
+[[Usinagem Dura/Avaliação das Pessoas]]
 
 Anote algo, [[crie um link]], ou tente [o Importer](https://help.obsidian.md/Plugins/Importer)!
 
@@ -19,3 +19,40 @@ Anote algo, [[crie um link]], ou tente [o Importer](https://help.obsidian.md/Plu
 - IScrap
 - Tool Management
 
+
+```dataviewjs
+let pages = dv.pages()
+
+
+dv.header(3, "Paginas")
+
+
+%% dv.list(pages) %%
+```
+
+
+```dataviewjs
+const pages = dv.pages()
+const testNames = pages.map(p => p.file.name).values
+const testMarks = pages.map(p => p.tags.count)
+
+const chartData = {
+    type: 'bar',
+    data: {
+        labels: testNames,
+        datasets: [{
+            label: 'Mark',
+            data: testMarks,
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)'
+            ],
+            borderWidth: 1,
+        }]
+    }
+}
+
+window.renderChart(chartData, this.container)
+```
