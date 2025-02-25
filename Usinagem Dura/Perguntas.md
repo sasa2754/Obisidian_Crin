@@ -1,0 +1,8 @@
+-  Qual a diferença entre manutenção preventiva e manutenção preditiva?
+	- Preventiva é uma parada planejada, onde eles fazem algo que é necessário para manter o funcionamento da fábrica
+	- Preditiva faz uma análise dos dados e toma uma decisão com base nisso
+- Qual a diferença entre pull system e cockpit em relação ao gráfico do supermercado?
+	- O pull system mostra a rampa do que eles precisam fazer
+	- O cockpit mostra só o gráfico, sem a rampa
+- Porque não estão usando o pull system do supermercado?
+	- Agora, aparentemente estão usando

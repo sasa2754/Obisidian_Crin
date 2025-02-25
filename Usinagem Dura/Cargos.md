@@ -1,0 +1,4 @@
+- Chefe de Produção
+- Manutentor
+- Ajustador
+- Operador

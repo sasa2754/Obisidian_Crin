@@ -1,0 +1,3 @@
+- TPM: Pausa planejada para arrumar coisas das máquinas (manutenção preditiva)
+- Setup: Ajustar a máquina para a próxima peça que vai ser feita
+- OEE é a performance da máquina
