@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Usinagem Dura/Cargos.md",
+                "file": "Usinagem Dura/Perguntas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cargos"
+              "title": "Perguntas"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Usinagem Dura/Perguntas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Home"
+              "title": "Sumário de Perguntas"
             }
           },
           {
@@ -179,15 +179,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "478423bb28716d35",
+  "active": "28deb879c22d4d45",
   "lastOpenFiles": [
+    "teste/Sem tí.md",
+    "Sem título",
+    "Usinagem Final",
     "Usinagem Dura/Perguntas.md",
-    "2025-02-24.md",
-    "Sem título.canvas",
+    "teste",
     "Usinagem Dura/Avaliações das pessoas.md",
-    "Usinagem Dura/Home.md",
     "Usinagem Dura/Dicionário.md",
     "Usinagem Dura/Cargos.md",
+    "Usinagem Dura/Home.md",
+    "2025-02-24.md",
+    "Sem título.canvas",
     "2025-02-20.md",
     "Usinagem Dura",
     "crie um link.md"
