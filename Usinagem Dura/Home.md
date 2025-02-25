@@ -10,3 +10,12 @@ Anote algo, [[crie um link]], ou tente [o Importer](https://help.obsidian.md/Plu
 - Fazer um sistema pro planejamento dos exóticos com base no excel deles
 - OEE no cockpit tem um problema de sempre puxar a data errada e também abaixa sozinho por ter algumas máquinas que não estão rodando, então tem que selecionar as máquinas certas
 - É um problema ter vários sistemas e as pessoas terem que ficar procurando as informações entre esses sistemas
+
+# Principais Ferramentas
+- Daily Cockpit
+- Pull System
+- Process Management
+- ESMC
+- IScrap
+- Tool Management
+
