@@ -1,4 +1,4 @@
-- #Ajustador Leandro
+-  #Ajustador Leandro
 	- Maior dificuldade: Gestão de pessoas e metas
 - #Ajustador Edy
 	- Maior dificuldade: Demora para fazer o setup
@@ -16,3 +16,8 @@
 	- Maior dificuldade: A falta de peças quando é necessário trocar ou repor algo
 - #Planejador Wallace
 	- Maior dificuldade: Demora para usar o sistema QLR NT. Quando ele precisa de algum dado, precisa selecionar o período e ver o gráfico, que por sua vez, muitas vezes não é muito visível, já que são muitos dados de uma só vez e não é possível ajustar o gráfico para melhor visualização. Além dos dados serem alguns minutos desatualizados, então se houver uma emergência, o tempo de resposta dele depende do atraso do software
+
+```dataview
+LIST
+from #Operador 
+```

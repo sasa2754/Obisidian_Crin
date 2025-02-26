@@ -1,5 +1,5 @@
 - #Programador de Máquina Cássia
-	- Maior problema: Ver as pessoas próximas sofrendo ao tentar usar o paperless, pois disse que ele não funciona bem
+	- #Paperless #ProblemaDois Maior problema: Ver as pessoas próximas sofrendo ao tentar usar o paperless, pois disse que ele não funciona bem
 - #Operador Rodrigo
 	- Maior problema: Paperless não funcionar direito e não puxa automaticamente os dados para a medição da peça
 - #Operador Mariana
@@ -12,3 +12,18 @@
 	- Maior dificuldade: Os cartões (RFID) estarem corretos para ela poder prosseguir com o processo dela, porém eles normalmente vem corretos
 - #Líder de Processo Thaysa
 	- Maior dificuldade: Novamente, o Paperless não puxar os dados automaticamente, o que atrasa o processo da sala de formas, além de ter problemas com o Pull System, pois está muito corrido no processo no momento, então fez um acordo com a Montagem, a Montagem pede a peça e eles fazem, estão usando o sistema puxado
+
+[Cargo::Programador]
+
+
+| Cargo   | Problema | Nome   |
+| ------- | -------- | ------ |
+| Gostoso | SAP      | Andrey |
+| a       | c        | b      |
+|         |          |        |
+|         |          |        |
+|         |          |        |
+|         |          |        |
+|         |          |        |
+|         |          |        |
+
