@@ -1,5 +1,5 @@
 - #Programador de Máquina Cássia
-	- #Paperless #ProblemaDois Maior problema: Ver as pessoas próximas sofrendo ao tentar usar o paperless, pois disse que ele não funciona bem
+	- Maior problema: Ver as pessoas próximas sofrendo ao tentar usar o paperless, pois disse que ele não funciona bem
 - #Operador Rodrigo
 	- Maior problema: Paperless não funcionar direito e não puxa automaticamente os dados para a medição da peça
 - #Operador Mariana

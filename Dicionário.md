@@ -1,10 +1,12 @@
-- TPM: Pausa planejada para arrumar coisas das máquinas (manutenção preditiva)
+- TPM: Pausa planejada para arrumar coisas das máquinas (manutenção preditiva, preventiva e planejada)
 - Setup: Ajustar a máquina para a próxima peça que vai ser feita
-- OEE é a performance da máquina
+- OEE: é a performance da máquina
 - Wip: É um sistema que mostra as peças em andamento
-- IDC: É um BI que mostra o custo por produto
-- RDL: Reunião de segurança
+- IDC: É um BI que mostra o custo por produto (Refugo e retrabalho)
+- RDL: Reunião de liderança
 - PCS: Software que tem os problemas, causas e soluções
 - POT: Tempo total da produção sem as paradas planejadas
 - He-Lowi-Sa: O cálculo que usa para prever o mercado (He: Amarelo, Lowi: Verde, Sa: Vermelho)
 - LeadTime: Tempo que a peça demora no processo, desde o momento em que ela chega, até o momento em que saí para o cliente
+- LTU: Líder de turma
+- LTI: Líder de time
