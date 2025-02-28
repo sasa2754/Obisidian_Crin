@@ -18,6 +18,14 @@
 	- Maior dificuldade: Demora para usar o sistema QLR NT. Quando ele precisa de algum dado, precisa selecionar o período e ver o gráfico, que por sua vez, muitas vezes não é muito visível, já que são muitos dados de uma só vez e não é possível ajustar o gráfico para melhor visualização. Além dos dados serem alguns minutos desatualizados, então se houver uma emergência, o tempo de resposta dele depende do atraso do software
 
 
-| Cargo      | Nome    | Problemas                     |
-| ---------- | ------- | ----------------------------- |
-| Planejador | Wallace | Ter alguém pra ir no banheiro |
+| Cargo      | Nome     | Problemas            |
+| ---------- | -------- | -------------------- |
+| Austador   | Leandro  | #Outros              |
+| Ajustador  | Edy      | #Setup               |
+| Operador   | Leonardo | #Ferramenta_Complexa |
+| Acíclico   | Emerson  | #ToolManagement      |
+| Líder      | Adriano  | #Ferramenta_Complexa |
+| Operador   | Josiel   | #Nada                |
+| Ajustador  | Allan    | #Carrinho            |
+| Manutentor | Marcelo  | #Outros              |
+| Planejador | Wallace  | #QLR                 |
