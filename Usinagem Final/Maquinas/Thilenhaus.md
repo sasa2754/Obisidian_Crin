@@ -5,4 +5,4 @@
 
 
 
-Após isso as peças vão para o Mercado Usinagem Final]
+Após isso as peças vão para o Mercado Usinagem Final

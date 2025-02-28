@@ -1,3 +1,11 @@
+# Principais Ferramentas
+- Daily Cockpit
+- Pull System
+- Process Management
+- ESMC
+- IScrap
+- Tool Management
+
 # Extensões
 - Dataview
 - Charts
@@ -38,7 +46,7 @@ window.renderChart(chartData, this.container)
 
 
 
-```dataviewjs  
+```dataviewjs   
 function getClosestPayday(year, month) {  
     let today = new Date();  
   
@@ -70,6 +78,9 @@ function getMinutesDifference(date1, date2) { let diffMilliseconds = Math.abs(da
 const today = moment()
 
 let next = getClosestPayday(today.year(), today.month() + 1)  
+if (next.getDay() <= (new Date()).getDay()) {  
+  next = getClosestPayday(today.year(), today.month() + 2)  
+}  
 const minutes = getMinutesDifference(new Date(), next)
 
 next = moment(next)

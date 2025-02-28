@@ -13,17 +13,12 @@
 - #Líder de Processo Thaysa
 	- Maior dificuldade: Novamente, o Paperless não puxar os dados automaticamente, o que atrasa o processo da sala de formas, além de ter problemas com o Pull System, pois está muito corrido no processo no momento, então fez um acordo com a Montagem, a Montagem pede a peça e eles fazem, estão usando o sistema puxado
 
-[Cargo::Programador]
-
-
-| Cargo   | Problema | Nome   |
-| ------- | -------- | ------ |
-| Gostoso | SAP      | Andrey |
-| a       | c        | b      |
-|         |          |        |
-|         |          |        |
-|         |          |        |
-|         |          |        |
-|         |          |        |
-|         |          |        |
-
+| Cargo       | Nome    | Problemas              |
+| ----------- | ------- | ---------------------- |
+| Programdora | Cassia  | #Nada                  |
+| Operador    | Rodrigo | #Paperless             |
+| Operador    | Marcos  | #Paperless             |
+| Operador    | Mariana | #Nada                  |
+| Operador    | Débora  | #Paperless             |
+| Operador    | Michele | #Nada                  |
+| Lider       | Thaysa  | #Paperless #PullSystem |
