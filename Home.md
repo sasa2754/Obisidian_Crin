@@ -91,7 +91,3 @@ dv.header(3, "Proximo Pagamento💸 → " + moment(next).format("DD/MM/yyyy"))
 dv.header(6, `Ainda faltam ${minutes} minutos!`)
 
 ```
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
