@@ -11,6 +11,7 @@
 - Charts
 - Iconize
 - Git
+- Excalidraw
 
 
 
