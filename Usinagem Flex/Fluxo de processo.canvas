@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"fc643ab6a47a68af","type":"text","text":"Parafusadeira","x":-140,"y":180,"width":250,"height":80},
-		{"id":"868789eb823bb58f","type":"file","file":"Usinagem Dura/Avaliação das Pessoas.md","x":220,"y":300,"width":400,"height":420}
+		{"id":"868789eb823bb58f","type":"file","file":"Usinagem Dura/Avaliação das Pessoas.md","x":220,"y":240,"width":400,"height":420}
 	],
 	"edges":[]
 }
