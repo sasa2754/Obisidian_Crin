@@ -1,10 +1,3 @@
-# Principais Ferramentas
-- Daily Cockpit
-- Pull System
-- Process Management
-- ESMC
-- IScrap
-- Tool Management
 
 # Extensões
 - Dataview

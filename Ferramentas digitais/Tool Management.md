@@ -1,0 +1,1 @@
+O que faz: Ferramenta para lançar quebras de ferramentas.

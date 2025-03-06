@@ -1,0 +1,1 @@
+![[Pasted image 20250306101548.png]]O que faz: TPM Físico mas no digital, foi criado para ter um melhor controle de quando,, onde e porque o TPM foi realizado.
