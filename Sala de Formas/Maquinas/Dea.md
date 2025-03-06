@@ -1,1 +1,0 @@
-- A Dea é responsável por  medir os furos e diâmetros

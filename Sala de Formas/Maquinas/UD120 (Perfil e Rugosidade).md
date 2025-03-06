@@ -1,0 +1,1 @@
+- Não possui integração ao Paperless

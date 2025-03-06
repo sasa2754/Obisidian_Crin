@@ -1,0 +1,3 @@
+- XCR20 (24242).
+- XCR20 (9715).
+- Ambas sem integração com o Paperless.

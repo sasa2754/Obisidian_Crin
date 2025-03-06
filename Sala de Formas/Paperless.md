@@ -2,7 +2,6 @@
 - Pode ser um problema na tef2 ou na ico
 - As máquinas não estão conversando entre si
 
-
 # Perguntas
 - Quais máquinas tem acesso ao Paperless?
 	- DAES (Tridimencional) (6 máquinas)

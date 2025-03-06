@@ -1,0 +1,3 @@
+- Responsável por medir as partes sem furos
+- Possui integração com o Paperless.
+- 

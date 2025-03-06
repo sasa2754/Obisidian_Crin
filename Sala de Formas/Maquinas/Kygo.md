@@ -1,1 +1,0 @@
-- É responsável por ver as deformidades da usinagem das válvulas
