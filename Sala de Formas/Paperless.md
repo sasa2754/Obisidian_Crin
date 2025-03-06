@@ -1,0 +1,29 @@
+- É exclusivo da sala de formas para registrar as medições
+- Pode ser um problema na tef2 ou na ico
+- As máquinas não estão conversando entre si
+
+
+# Perguntas
+- Quais máquinas tem acesso ao Paperless?
+	- DAES (Tridimencional) (6 máquinas)
+	- Zeiss (Tridimencional)
+	- MFU100 (Formas)
+	- MFU200 (Formas)
+- Quais máquinas não tem acesso ao Paperless?
+	- VD280 (Perfil e Rugosidade)
+	- XCR20 (24242) (Perfil e Rugosidade)
+	- XCR20 (9715) (Perfil e Rugosidade)
+	- UD120 (Perfil e Rugosidade)
+	- Zygo (Óptica)
+- #VerEmOutrosSetores Esse problema acontece só na sala de formas do crin ou acontece em outras salas de forma também? 
+- Quanto tempo é gasto a mais para fazer a anotação manual das medições?
+	- Depende (1 min por peça, mas depende de qual peça é e quantos dados tem)
+- #PerguntarNosProcessos Cerca de quantas medições precisam ser feitas manualmente?
+	- 
+- Quantas peças passam pela sala de formas por dia?
+	- Usinagem Dura: 100 por turno
+- O que o Lucas tava fazendo?
+	- 
+- Em quais máquinas o Lucas aplicou o que ele estava fazendo?
+- A ICO ta ciente desse problema?
+- Se a ICO estiver ciente, eles tem algum plano sobre isso?
