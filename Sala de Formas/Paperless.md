@@ -16,14 +16,15 @@
 	- UD120 (Perfil e Rugosidade)
 	- Zygo (Óptica)
 - #VerEmOutrosSetores Esse problema acontece só na sala de formas do crin ou acontece em outras salas de forma também? 
+	- Bico: Não tem esse problema, mas disseram que de vez em quando o sistema buga e não envia nada, mas é raro
 - Quanto tempo é gasto a mais para fazer a anotação manual das medições?
 	- Depende (1 min por peça, mas depende de qual peça é e quantos dados tem)
-- #PerguntarNosProcessos Cerca de quantas medições precisam ser feitas manualmente?
-	- 
 - Quantas peças passam pela sala de formas por dia?
 	- Usinagem Dura: 100 por turno
+	- Usinagem Final: Achamos que 6 por turno
 - O que o Lucas tava fazendo?
-	- 
+	- Ele tava tirando do paperless os campos de medição que as máquinas não fazem
 - Em quais máquinas o Lucas aplicou o que ele estava fazendo?
+	- Ele não fez na máquina pelo que entendemos, ele fez direto no paperless
 - A ICO ta ciente desse problema?
 - Se a ICO estiver ciente, eles tem algum plano sobre isso?
