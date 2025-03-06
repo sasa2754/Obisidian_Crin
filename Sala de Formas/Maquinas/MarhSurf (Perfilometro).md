@@ -1,0 +1,5 @@
+- O Perfilometro é responsável por fazer a medição do perfil da peça.
+- MarhSurf.
+- As estações de medição CD MarSurf são operadas através do plataforma de medição e avaliação MarWin.
+-  Atualmente não possui integração com o paperless.(O operador deve fazer medição e jogar manualmente para o Paperless). 
+-  [Manual](https://metrology.mahr.com/fileadmin/assets/files/MarSurf--3764362--FL--CD%20Series--PT--2018-08-16.pdf )

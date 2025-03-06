@@ -1,0 +1,1 @@
+- Responsável por medir as partes sem furos

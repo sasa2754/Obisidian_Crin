@@ -1,0 +1,1 @@
+Para os lideres gerenciar quais treinamentos ele tem e quais ele precisa

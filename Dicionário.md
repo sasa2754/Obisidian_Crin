@@ -8,5 +8,6 @@
 - POT: Tempo total da produção sem as paradas planejadas
 - He-Lowi-Sa: O cálculo que usa para prever o mercado (He: Amarelo, Lowi: Verde, Sa: Vermelho)
 - LeadTime: Tempo que a peça demora no processo, desde o momento em que ela chega, até o momento em que saí para o cliente
-- LTU: Líder de turma
+- LTU: Líder de turno
 - LTI: Líder de time
+- Speedweek: Semana focada em um tema. 
