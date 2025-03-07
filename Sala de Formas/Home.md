@@ -4,6 +4,11 @@
 
 Um cartão com informações relevantes acompanha as peças.
 
+
+
+
+
+
 | MAQUINA       | INTEGRAÇÃO  |
 | ------------- | ----------- |
 | DAES          | #POSSUI     |
