@@ -27,3 +27,9 @@
 	- Ele não fez na máquina pelo que entendemos, ele fez direto no paperless
 - A ICO ta ciente desse problema?
 - Se a ICO estiver ciente, eles tem algum plano sobre isso?
+
+
+
+
+
+
