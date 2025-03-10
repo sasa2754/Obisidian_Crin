@@ -2,6 +2,12 @@
 - Pode ser um problema na tef2 ou na ico
 - As máquinas não estão conversando entre si
 
+
+
+# Solução
+- Pegar um por um dos part numbers e relacionar as medidas da máquina com as medidas do paperless
+- Fazer uma planilha ou um tabela que mostre qual é o nome da medição na máquina e qual é o nome no paperless
+
 # Perguntas
 - Quais máquinas tem acesso ao Paperless?
 	- DAES (Tridimencional) (6 máquinas)
