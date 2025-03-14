@@ -3,6 +3,10 @@
 - As máquinas não estão conversando entre si
 
 
+- Mudar o resultado das medições e também mudar os limites no paperless menu admin
+- Ver se teria como enviar o resultado não só com ok, mas com a situação também, se ta perto do limite e tals
+
+
 
 # Solução
 - Pegar um por um dos part numbers e relacionar as medidas da máquina com as medidas do paperless
