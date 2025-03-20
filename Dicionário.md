@@ -11,3 +11,4 @@
 - LTU: Líder de turno
 - LTI: Líder de time
 - Speedweek: Semana focada em um tema. 
+- CEP: Controle Estatístico de Processo
