@@ -1,3 +1,18 @@
+- Pegar os dados do paperless dos part numbers do grupo induzido e mandar pro excel
+- É pra pegar de novembro até agora
+- Separar por part number e por máquina
+- Part number
+- Operação
+- Máquina
+
+
+
+# Coisas que eu preciso fazer
+- [ ] Projeto do Paperless
+- [ ] Projeto do Control X
+- [x] Consulta ao banco do paperless do grupo induzido
+- [ ] Ajudar o outro setor com outra coisa do Paperless
+
 
 # Extensões
 - Dataview

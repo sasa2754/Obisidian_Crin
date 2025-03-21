@@ -4,5 +4,5 @@
 - Operador: Opera a máquina
 - Acíclico: Ajuda por fora da linha
 - Planejador: Analisa os dados das máquinas e planeja coisas
-- LTU: Líder de turma
+- LTU: Líder de turno
 - LTI: Líder de time
