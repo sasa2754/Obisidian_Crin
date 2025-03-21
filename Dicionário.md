@@ -10,4 +10,4 @@
 - LeadTime: Tempo que a peça demora no processo, desde o momento em que ela chega, até o momento em que saí para o cliente
 - LTU: Líder de turno
 - LTI: Líder de time
-- Speedweek: Semana focada em um tema. 
+- Speedweek: Semana focada em um tema
