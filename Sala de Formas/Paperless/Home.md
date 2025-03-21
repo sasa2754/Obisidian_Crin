@@ -1,6 +1,11 @@
 - É exclusivo da sala de formas para registrar as medições
 - Pode ser um problema na tef2 ou na ico
 - As máquinas não estão conversando entre si
+- Quando a Zeiss está ocupada, os operadores realizam as medições na DEA, o que pode desconfigurar o paperless. Mas isso pode mostrar que talvez não exista um padrão ou um plano de reação, ou que ele não esteja funcionando mais e deve ser refeito.
+- Talvez o problema não seja no paperless em si, mas sim na falta de disciplina de alguns operadores
+- Geralmente da erro quando mandam o tier errado, por exemplo, o cartão ta falando que tem 6 peças, mas na real tem 8, ou o cartão fala que tem 8 peças e na realidade tem 6
+- Seria interessante se tivesse como mandar um anexo junto com as medições no paperless, pois tem as medições do perfil que não utilizam o paperless, já que o que importa nem sempre é o valor, mas sim o gráfico gerado
+- MarSurf XCR 20
 
 
 - Mudar o resultado das medições e também mudar os limites no paperless menu admin
