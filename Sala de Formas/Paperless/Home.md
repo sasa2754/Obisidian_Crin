@@ -1,3 +1,24 @@
+- Perguntar pro Lara se já existe um padrão de como os operadores da sala de formas enviam as coisas pro paperless
+- 9 Folhas +- para cada peça que passa pela máquina de perfil, para uma medição normal, mas para uma destrutiva é muito mais
+
+
+# Coisas para fazer
+
+- [ ] Ir no 101 e ver se eles imprimem os relatórios
+- [ ] Ir no Bico e ver se eles imprimem os relatórios
+- [ ] Conversar com o Lara ou com a Ana sobre algo que não sabemos ainda
+- [ ] Ver a IT dos ajustadores sobre os relatórios de medição e analisar se ela parece estar considerando a existência do paperless
+- [ ] Calcular a quantidade de papel gasto por turno
+- [ ] Ver o negócio de os processos enviarem a quantidade de peças diferente do que está no cartão, talvez falte um treinamento para as pessoas que enviam as peças ou o cartão não está dizendo quantas peças tem que ter
+
+
+# Perguntas pro moço do BDO
+
+- Como configurar o Collector?
+- Seria possível colocar no Paperless aquele negócio do limite das medições?
+- O relatório do paperless parece ter menos coisas do que o relatório físico, é isso mesmo?
+- Seria possível fazer uma espécie de assinatura virtual para o ajustador mostrar que está ciente e que já resolveu os problemas, só quando já colocou uma resolução para as medições fora dos padrões?
+- Tem como colocar para o ajustador adicionar um comentário e cada medição fora do padrão? Para ficar mais organizado e condizer com o que ele faz no impresso?
 
 
 # Observações
@@ -21,6 +42,7 @@
 - [ ] Rugosidade ainda é manual, mas da pra ser automático, pq no 101 é, mas é um pouco mais complexo, precisamos entender melhor isso
 - [ ] Pessoas mandam o cartão errado com a quantidade errada de peças
 - [ ] Tem duas máquinas que fazem a mesma medição, mas uma delas faz algumas medições a mais, daí o paperless quebra, seria interessante se desse pra fazer um tipo de sistema ou perfil do paperless pra cada uma delas, ou colocar um padrão pra fazer essas medições em uma máquina só
+- [ ] Não tem um padrão de como os operadores precisam mexer no paperless, então cada um faz de uma maneira diferente
 
 # Solução
 - Pegar um por um dos part numbers e relacionar as medidas da máquina com as medidas do paperless
@@ -32,25 +54,37 @@
 	- Zeiss (Tridimencional)
 	- MFU100 (Formas)
 	- MFU200 (Formas)
+	
 - Quais máquinas não tem acesso ao Paperless?
 	- VD280 (Perfil e Rugosidade)
 	- XCR20 (24242) (Perfil e Rugosidade)
 	- XCR20 (9715) (Perfil e Rugosidade)
 	- UD120 (Perfil e Rugosidade)
 	- Zygo (Óptica)
-- #VerEmOutrosSetores Esse problema acontece só na sala de formas do crin ou acontece em outras salas de forma também? 
+	
+- Esse problema acontece só na sala de formas do crin ou acontece em outras salas de forma também? 
 	- Bico: Não tem esse problema, mas disseram que de vez em quando o sistema buga e não envia nada, mas é raro
+	- 101: Também disse que não tem esse problema, tudo parece funcionar bem lá
+	
 - Quanto tempo é gasto a mais para fazer a anotação manual das medições?
 	- Depende (1 min por peça, mas depende de qual peça é e quantos dados tem)
+	
 - Quantas peças passam pela sala de formas por dia?
 	- Usinagem Dura: 100 por turno
 	- Usinagem Final: Achamos que 6 por turno
+	
 - O que o Lucas tava fazendo?
 	- Ele tava tirando do paperless os campos de medição que as máquinas não fazem
+	
 - Em quais máquinas o Lucas aplicou o que ele estava fazendo?
 	- Ele não fez na máquina pelo que entendemos, ele fez direto no paperless
+	
 - A ICO ta ciente desse problema?
 - Se a ICO estiver ciente, eles tem algum plano sobre isso?
+- Quantas peças destrutivas são mandadas para a sala de formas por mês?
+- Tem mais alguma peça que é mandada sem o cartão do paperless?
+- Pq as peças são mandadas sem o cartão do paperless?
+- Quantas folhas são gastas por dia na sala de formas?
 
 
 

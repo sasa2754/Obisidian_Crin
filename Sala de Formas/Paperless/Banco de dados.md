@@ -1,7 +1,6 @@
 
 - Conseguir pegar quais medições são feitas em quais máquinas, se for possível
 
-
 # Conexão com o banco
 
 Banco de Dados Server: CT0BD05 (10.21.157.91)   
