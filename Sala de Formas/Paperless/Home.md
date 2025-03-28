@@ -4,12 +4,14 @@
 
 # Coisas para fazer
 
-- [ ] Ir no 101 e ver se eles imprimem os relatórios
-- [ ] Ir no Bico e ver se eles imprimem os relatórios
+- [x] Ir no 101 e ver se eles imprimem os relatórios
+- [x] Ir no Bico e ver se eles imprimem os relatórios
 - [ ] Conversar com o Lara ou com a Ana sobre algo que não sabemos ainda
 - [ ] Ver a IT dos ajustadores sobre os relatórios de medição e analisar se ela parece estar considerando a existência do paperless
 - [ ] Calcular a quantidade de papel gasto por turno
 - [ ] Ver o negócio de os processos enviarem a quantidade de peças diferente do que está no cartão, talvez falte um treinamento para as pessoas que enviam as peças ou o cartão não está dizendo quantas peças tem que ter
+- [ ] Descobrir quais são os planos de medição que estão dando erro
+- [ ] Tirar fotos das coisas importantes
 
 
 # Perguntas pro moço do BDO
@@ -21,6 +23,9 @@
 - Tem como colocar para o ajustador adicionar um comentário e cada medição fora do padrão? Para ficar mais organizado e condizer com o que ele faz no impresso?
 
 
+Primeira ação, checar todas as caracteristicas dos planos de medição dos cartoes que estao dando erro  Segunda ação, abrir um chamado para configurar as 2 maquinas do paperless do CRIN que nao estao mandando dados automatico para o paperless (collector), informando o inventario delas tambem
+
+Pega o cartão, pega o plano de medição dele, checa as características que deram erro, depois checa os vínculos
 # Observações
 
 - É exclusivo da sala de formas para registrar as medições
@@ -30,6 +35,8 @@
 - Geralmente da erro quando mandam o tier errado, por exemplo, o cartão ta falando que tem 6 peças, mas na real tem 8, ou o cartão fala que tem 8 peças e na realidade tem 6
 - Seria interessante se tivesse como mandar um anexo junto com as medições no paperless, pois tem as medições do perfil que não utilizam o paperless, já que o que importa nem sempre é o valor, mas sim o gráfico gerado
 - MarSurf XCR 20
+- A sala de formas do bico imprime os resultados as vezes
+- A sala de formas do 101 não imprime os resultados
 
 # Ideias
 
