@@ -8,10 +8,11 @@
 - [x] Ir no Bico e ver se eles imprimem os relatórios
 - [ ] Conversar com o Lara ou com a Ana sobre algo que não sabemos ainda
 - [ ] Ver a IT dos ajustadores sobre os relatórios de medição e analisar se ela parece estar considerando a existência do paperless
-- [ ] Calcular a quantidade de papel gasto por turno
+- [ ] Calcular a quantidade de papel gasto por turno ***Urgente***
 - [ ] Ver o negócio de os processos enviarem a quantidade de peças diferente do que está no cartão, talvez falte um treinamento para as pessoas que enviam as peças ou o cartão não está dizendo quantas peças tem que ter
 - [ ] Descobrir quais são os planos de medição que estão dando erro
 - [ ] Tirar fotos das coisas importantes
+- [ ] Abrir um chamado para as pessoas arrumarem o bgl do Collector
 
 
 # Perguntas pro moço do BDO
@@ -26,6 +27,7 @@
 Primeira ação, checar todas as caracteristicas dos planos de medição dos cartoes que estao dando erro  Segunda ação, abrir um chamado para configurar as 2 maquinas do paperless do CRIN que nao estao mandando dados automatico para o paperless (collector), informando o inventario delas tambem
 
 Pega o cartão, pega o plano de medição dele, checa as características que deram erro, depois checa os vínculos
+
 # Observações
 
 - É exclusivo da sala de formas para registrar as medições
