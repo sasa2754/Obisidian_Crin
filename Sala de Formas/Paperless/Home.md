@@ -1,18 +1,36 @@
 - Perguntar pro Lara se já existe um padrão de como os operadores da sala de formas enviam as coisas pro paperless
 - 9 Folhas +- para cada peça que passa pela máquina de perfil, para uma medição normal, mas para uma destrutiva é muito mais
+- 1260 folhas gastas por turno
 
+
+# Inventário das máquinas marsurf
+
+- 200000009715
+- 200000024269
+- 200000024128
+- 200000024242
 
 # Coisas para fazer
 
 - [x] Ir no 101 e ver se eles imprimem os relatórios
 - [x] Ir no Bico e ver se eles imprimem os relatórios
-- [ ] Conversar com o Lara ou com a Ana sobre algo que não sabemos ainda
+- [x] Conversar com o Lara ou com a Ana sobre o plano de medição (Pedir ele)
 - [ ] Ver a IT dos ajustadores sobre os relatórios de medição e analisar se ela parece estar considerando a existência do paperless
-- [ ] Calcular a quantidade de papel gasto por turno ***Urgente***
+- [x] Calcular a quantidade de papel gasto por turno
 - [ ] Ver o negócio de os processos enviarem a quantidade de peças diferente do que está no cartão, talvez falte um treinamento para as pessoas que enviam as peças ou o cartão não está dizendo quantas peças tem que ter
 - [ ] Descobrir quais são os planos de medição que estão dando erro
 - [ ] Tirar fotos das coisas importantes
-- [ ] Abrir um chamado para as pessoas arrumarem o bgl do Collector
+- [x] Abrir um chamado para as pessoas arrumarem o bgl do Collector
+- [ ] Fazer um A3 (Meio feito) ***08/04/2025***
+- [ ] Conversar com o BDO para imprimir só as medições que deram errado
+- [ ] Fazer uma apresentação
+- [ ] Arrumar as medições
+- [ ] Falar com a Marina sobre o bgl de imprimir só quando da fora da medição
+- [ ] Mapear o tempo do processo de medição de uma peça e por máquina, igual no processo normal (OEE e ciclo)
+- [ ] Mapear o ciclo das marsurfs
+- [ ] Ver o tempo ocioso dos operadores da sala de formas
+- [ ] Ver algum tablet que aguente óleo
+- [ ] 
 
 
 # Perguntas pro moço do BDO
@@ -47,8 +65,8 @@ Pega o cartão, pega o plano de medição dele, checa as características que de
 
 # Problemas
 
-- [ ] Perfil impresso, mas já ta resolvido no 101, é só trazer a solução pra cá
-- [ ] Rugosidade ainda é manual, mas da pra ser automático, pq no 101 é, mas é um pouco mais complexo, precisamos entender melhor isso
+- [x] Perfil impresso, mas já ta resolvido no 101, é só trazer a solução pra cá
+- [x] Rugosidade ainda é manual, mas da pra ser automático, pq no 101 é, mas é um pouco mais complexo, precisamos entender melhor isso
 - [ ] Pessoas mandam o cartão errado com a quantidade errada de peças
 - [ ] Tem duas máquinas que fazem a mesma medição, mas uma delas faz algumas medições a mais, daí o paperless quebra, seria interessante se desse pra fazer um tipo de sistema ou perfil do paperless pra cada uma delas, ou colocar um padrão pra fazer essas medições em uma máquina só
 - [ ] Não tem um padrão de como os operadores precisam mexer no paperless, então cada um faz de uma maneira diferente
@@ -79,8 +97,9 @@ Pega o cartão, pega o plano de medição dele, checa as características que de
 	- Depende (1 min por peça, mas depende de qual peça é e quantos dados tem)
 	
 - Quantas peças passam pela sala de formas por dia?
-	- Usinagem Dura: 100 por turno
-	- Usinagem Final: Achamos que 6 por turno
+	- Usinagem Dura: +-100 por turno
+	- Usinagem Final: 4 turno + setup
+	- Miscelânia: +- 75 por turno
 	
 - O que o Lucas tava fazendo?
 	- Ele tava tirando do paperless os campos de medição que as máquinas não fazem
