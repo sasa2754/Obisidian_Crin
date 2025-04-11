@@ -45,4 +45,11 @@ Password:mhJLPwpLwq41
 
 
 
+- Pegar o chekin do crin
+	- select
+		*
+		from Machine m
+		inner join Request r on m.id = r.IdMachine
+		where m.LocationDescription like '%CRIN%'
+		order by r.Created desc
 
