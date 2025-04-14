@@ -2,6 +2,9 @@
 - 9 Folhas +- para cada peça que passa pela máquina de perfil, para uma medição normal, mas para uma destrutiva é muito mais
 - 1260 folhas gastas por turno
 - Os ajustadores precisam ter dois relatórios: O relatório que deu errado e um relatório bom, para compararem os valores
+- Não estão fazendo Checkin pq o sistema de Checkin bugou um dia e nunca mais voltou, o Isaac vai entrar em contato com o time de desenvolvedores e nos avisar quando responderem
+- A priorização das peças na sala de forma é feita por um tipo de "esteirinha", onde as que chegam primeiro são medidas primeiro e depois retornam pro mesmo lugar onde estavam
+- O paperless ta servindo apenas como uma maneira dos operadores saberem que as medições estão prontas, eles praticamente não usam ele
 
 
 # Inventário das máquinas marsurf
@@ -25,18 +28,26 @@
 - [ ] Fazer uma apresentação
 - [ ] Arrumar as medições
 - [x] Falar com a Marina sobre o bgl de imprimir só quando da fora da medição e sobre o iconnect na sala de formas ***10/04/2025***
-- [ ] Falar com a Thaysa ou lima sobre pq eles não estão fazendo o chekin na sala de formas ***11/04/2025***
-- [ ] Perguntar pro Lara pq ele parou de implementar o negócio do paperless do sem vínculo ***11/04/2025***
+- [x] Falar com alguém (Ajustador) sobre pq eles não estão fazendo o chekin na sala de formas ***11/04/2025***
+- [x] Perguntar pro Lara pq ele parou de implementar o negócio do paperless do sem vínculo e o que ele fez ***11/04/2025***
 - [x] Falar com o Daniel sobre o tablet que nós achamos ***09/04/2025***
 - [x] Perguntar para os ajustadores se eles precisam de todas as medições que vem no relatório ***09/04/2025***
 - [ ] Mapear o tempo do processo de medição de uma peça e por máquina, igual no processo normal (OEE e ciclo)
 - [ ] Mapear o ciclo das marsurfs
-- [ ] Ver o tempo ocioso dos operadores da sala de formas
+- [x] Ver o tempo ocioso dos operadores da sala de formas
 - [x] Ver algum tablet que aguente óleo
-- [ ] Mapear as máquinas que o ajustador precisa do papel e as que ele não precisa
+- [x] Mapear as máquinas que o ajustador precisa do papel e as que ele não precisa
 - [ ] Observar os operadores da sala de formas pra ver quem ta de varzea, analisar os papéis gastos e ver quem ta colocando os dados no paperless certo ***11/04/2025***
 - [ ] Ver pq o computador de chekin não liga ***11/04/2025***
-- [ ] Acompanhar o mano do bdo dnv ***11/04/2025***
+- [ ] Acompanhar o mano do bdo dnv ***14/04/2025***
+- [x] Conversar com o Lucas pra pedir o excel que ele tava usando pra fazer os vínculos
+- [ ] Descobrir quem desabilitou o checkin da sala de formas e pq fez isso ***14/04/2025***
+- [x] Ver como é a priorização das peças na sala de formas e como eles sabem as que estão em processo e as que estão esperando
+- [ ] Resolver o problema da MFU100 e da MFU200 de estar mandando o resultado do primeiro valor que sai pro paperless e não do mais alto
+- [ ] Ver o número do inventário daquela máquina do canto
+- [ ] Abrir uma ordem para o Diogo Prado ir verificar aquela máquina do canto que não ta se comunicando com a rede
+- [ ] Junto com a Ana, criar novos planos de medição dos cartões que dão erro e criar novos cartões
+- [ ] Enviar para o Lucas (BDO) os novos cartões para ele arrumar no paperless
 
 
 # Perguntas pro moço do BDO
