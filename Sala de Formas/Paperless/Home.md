@@ -37,17 +37,16 @@
 - [x] Ver o tempo ocioso dos operadores da sala de formas
 - [x] Ver algum tablet que aguente óleo
 - [x] Mapear as máquinas que o ajustador precisa do papel e as que ele não precisa
-- [ ] Observar os operadores da sala de formas pra ver quem ta de varzea, analisar os papéis gastos e ver quem ta colocando os dados no paperless certo ***11/04/2025***
-- [ ] Ver pq o computador de chekin não liga ***11/04/2025***
-- [ ] Acompanhar o mano do bdo dnv ***14/04/2025***
+- [x] Observar os operadores da sala de formas pra ver quem ta de varzea, analisar os papéis gastos e ver quem ta colocando os dados no paperless certo ***11/04/2025***
+- [x] Ver pq o computador de chekin não liga ***11/04/2025***
+- [x] Acompanhar o mano do bdo dnv ***14/04/2025***
 - [x] Conversar com o Lucas pra pedir o excel que ele tava usando pra fazer os vínculos
-- [ ] Descobrir quem desabilitou o checkin da sala de formas e pq fez isso ***14/04/2025***
+- [x] Descobrir quem desabilitou o checkin da sala de formas e pq fez isso ***14/04/2025***
 - [x] Ver como é a priorização das peças na sala de formas e como eles sabem as que estão em processo e as que estão esperando
 - [ ] Resolver o problema da MFU100 e da MFU200 de estar mandando o resultado do primeiro valor que sai pro paperless e não do mais alto
-- [ ] Ver o número do inventário daquela máquina do canto
 - [ ] Abrir uma ordem para o Diogo Prado ir verificar aquela máquina do canto que não ta se comunicando com a rede
-- [ ] Junto com a Ana, criar novos planos de medição dos cartões que dão erro e criar novos cartões
-- [ ] Enviar para o Lucas (BDO) os novos cartões para ele arrumar no paperless
+- [x] Falar com o isaac sobre como funciona o OEE em outras salas de formas
+- [ ] 
 
 
 # Perguntas pro moço do BDO
