@@ -46,6 +46,9 @@
 - [ ] Resolver o problema da MFU100 e da MFU200 de estar mandando o resultado do primeiro valor que sai pro paperless e não do mais alto
 - [ ] Abrir uma ordem para o Diogo Prado ir verificar aquela máquina do canto que não ta se comunicando com a rede
 - [x] Falar com o isaac sobre como funciona o OEE em outras salas de formas
+- [ ] Encontrar as IT's que mostram que os operadores precisam fazer checkin quando forem deixar as peças na sala de formas
+- [ ] Arrumar o problema das máquinas não exportarem, pra daí finalmente a gente conseguir pegar os cartões sem vínculo e arrumar eles
+- [ ] Conseguir um tablet provisório para testar se nossa ideia do tablet pros ajustadores vai dar certo antes de realmente comprar os de verdade
 - [ ] 
 
 
