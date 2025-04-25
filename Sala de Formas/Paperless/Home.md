@@ -9,10 +9,11 @@
 
 # Inventário das máquinas marsurf
 
-- 200000009715 ***N funciona***
-- 200000024269
-- 200000024128
-- 200000024242
+- 200000009715 - A do tablet
+- 200000024269 ***N funciona***
+- 200000024128 - Aquela do cantinho, que é a moça que usa
+- 200000024242 - A do meio, do moço
+- 200000023363 - A da outra mesa, que tava com problema de rede
 
 # Coisas para fazer
 
@@ -32,7 +33,7 @@
 - [x] Perguntar pro Lara pq ele parou de implementar o negócio do paperless do sem vínculo e o que ele fez ***11/04/2025***
 - [x] Falar com o Daniel sobre o tablet que nós achamos ***09/04/2025***
 - [x] Perguntar para os ajustadores se eles precisam de todas as medições que vem no relatório ***09/04/2025***
-- [ ] Mapear o tempo do processo de medição de uma peça e por máquina, igual no processo normal (OEE e ciclo)
+- [ ] Mapear o tempo do processo de medição de uma peça e por máquina, igual no processo normal (OEE e ciclo)(Mais ou menos feito)
 - [ ] Mapear o ciclo das marsurfs
 - [x] Ver o tempo ocioso dos operadores da sala de formas
 - [x] Ver algum tablet que aguente óleo
@@ -44,12 +45,20 @@
 - [x] Descobrir quem desabilitou o checkin da sala de formas e pq fez isso ***14/04/2025***
 - [x] Ver como é a priorização das peças na sala de formas e como eles sabem as que estão em processo e as que estão esperando
 - [ ] Resolver o problema da MFU100 e da MFU200 de estar mandando o resultado do primeiro valor que sai pro paperless e não do mais alto
-- [ ] Abrir uma ordem para o Diogo Prado ir verificar aquela máquina do canto que não ta se comunicando com a rede
+- [x] Abrir uma ordem para o Diogo Prado ir verificar aquela máquina do canto que não ta se comunicando com a rede
 - [x] Falar com o isaac sobre como funciona o OEE em outras salas de formas
-- [ ] Encontrar as IT's que mostram que os operadores precisam fazer checkin quando forem deixar as peças na sala de formas
+- [x] Encontrar as IT's que mostram que os operadores precisam fazer checkin quando forem deixar as peças na sala de formas
 - [ ] Arrumar o problema das máquinas não exportarem, pra daí finalmente a gente conseguir pegar os cartões sem vínculo e arrumar eles
 - [ ] Conseguir um tablet provisório para testar se nossa ideia do tablet pros ajustadores vai dar certo antes de realmente comprar os de verdade
-- [ ] 
+- [x] Arrumar a conexão da 200000023363
+- [ ] Reativar o checkin
+- [ ] Arrumar as marsurfs que ainda não estão exportando direito, principalmente aquela do meio
+- [x] Ir na sala de formas do 101 e ver como eles fazem checkin
+- [x] Responder os moços do tablet
+- [ ] Convencer os líderes a aceitarem o checkin de volta
+- [x] Fazer a apresentaçãozinha do checkin
+- [ ] Descobrir qual é o usuário certo pra máquina do checkin
+- [ ] Ir no 101 ver algo de tuxo e ver como os ajustadores lidam com o resultado das medições
 
 
 # Perguntas pro moço do BDO
