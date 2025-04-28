@@ -16,3 +16,9 @@
 - Ajustadores terem que se deslocar muito para fazer o ajuste as máquinas de acordo com as medições da sala de formas
 	- Obs: Fomos no 101 e no Bico, lá os ajustadores conseguem fazer essa movimentação, e a sala de formas não imprime os relatórios.
 	- Obs2: Já estamos em um projeto com o Otto para colocar mais computadores na linha, com o foco principal em deixar todas as IT's apenas de forma digital, mas que vai ajudar bastante nesse problema de deslocamento dos ajustadores.
+
+
+
+# Possível erro do conversor ???? 
+
+![[Pasted image 20250425110605.png]]
