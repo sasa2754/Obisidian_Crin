@@ -26,7 +26,7 @@
 - [ ] Tirar fotos das coisas importantes
 - [x] Abrir um chamado para as pessoas arrumarem o bgl do Collector
 - [x] Fazer um A3 (Meio feito) ***08/04/2025***
-- [ ] Fazer uma apresentação
+- [ ] Fazer uma apresentação final
 - [ ] Arrumar as medições
 - [x] Falar com a Marina sobre o bgl de imprimir só quando da fora da medição e sobre o iconnect na sala de formas ***10/04/2025***
 - [x] Falar com alguém (Ajustador) sobre pq eles não estão fazendo o chekin na sala de formas ***11/04/2025***
@@ -49,7 +49,7 @@
 - [x] Falar com o isaac sobre como funciona o OEE em outras salas de formas
 - [x] Encontrar as IT's que mostram que os operadores precisam fazer checkin quando forem deixar as peças na sala de formas
 - [ ] Arrumar o problema das máquinas não exportarem, pra daí finalmente a gente conseguir pegar os cartões sem vínculo e arrumar eles
-- [ ] Conseguir um tablet provisório para testar se nossa ideia do tablet pros ajustadores vai dar certo antes de realmente comprar os de verdade
+- [x] Conseguir um tablet provisório para testar se nossa ideia do tablet pros ajustadores vai dar certo antes de realmente comprar os de verdade
 - [x] Arrumar a conexão da 200000023363
 - [ ] Reativar o checkin
 - [ ] Arrumar as marsurfs que ainda não estão exportando direito, principalmente aquela do meio
@@ -59,6 +59,13 @@
 - [x] Fazer a apresentaçãozinha do checkin
 - [ ] Descobrir qual é o usuário certo pra máquina do checkin
 - [ ] Ir no 101 ver algo de tuxo e ver como os ajustadores lidam com o resultado das medições
+- [x] Treinar a apresentação do checkin
+- [ ] Arrumar o tablet que encontramos
+- [ ] Acompanhar um setup
+- [ ] Ver quais resultados os ajustadores estão usando
+- [ ] Descobrir de onde vem o Program Time daquele BI
+- [ ] Falar com o Daniel sobre os planejadores arrumarem o problema do sem vínculo (🫥😭)
+- [ ] Ver com a Kassia se ela sabe pq não ta salvando o caminho de exportação
 
 
 # Perguntas pro moço do BDO
