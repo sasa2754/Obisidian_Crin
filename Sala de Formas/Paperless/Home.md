@@ -55,10 +55,10 @@
 - [ ] Arrumar as marsurfs que ainda não estão exportando direito, principalmente aquela do meio
 - [x] Ir na sala de formas do 101 e ver como eles fazem checkin
 - [x] Responder os moços do tablet
-- [ ] Convencer os líderes a aceitarem o checkin de volta
+- [x] Convencer os líderes a aceitarem o checkin de volta
 - [x] Fazer a apresentaçãozinha do checkin
-- [ ] Descobrir qual é o usuário certo pra máquina do checkin
-- [ ] Ir no 101 ver algo de tuxo e ver como os ajustadores lidam com o resultado das medições
+- [x] Descobrir qual é o usuário certo pra máquina do checkin
+- [x] Ir no 101 ver algo de tuxo e ver como os ajustadores lidam com o resultado das medições
 - [x] Treinar a apresentação do checkin
 - [ ] Arrumar o tablet que encontramos
 - [ ] Acompanhar um setup
@@ -66,6 +66,8 @@
 - [ ] Descobrir de onde vem o Program Time daquele BI
 - [ ] Falar com o Daniel sobre os planejadores arrumarem o problema do sem vínculo (🫥😭)
 - [ ] Ver com a Kassia se ela sabe pq não ta salvando o caminho de exportação
+- [x] Criar o manual para realizar o checkin
+- [x] Mandar o manual pro Lara
 
 
 # Perguntas pro moço do BDO
