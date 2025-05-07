@@ -64,7 +64,6 @@
 - [ ] Acompanhar um setup
 - [ ] Ver quais resultados os ajustadores estão usando
 - [ ] Descobrir de onde vem o Program Time daquele BI
-- [ ] Falar com o Daniel sobre os planejadores arrumarem o problema do sem vínculo (🫥😭)
 - [ ] Ver com a Kassia se ela sabe pq não ta salvando o caminho de exportação
 - [x] Criar o manual para realizar o checkin
 - [x] Mandar o manual pro Lara
