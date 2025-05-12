@@ -22,8 +22,8 @@
 - [x] Conversar com o Lara ou com a Ana sobre o plano de medição (Pedir ele)
 - [x] Calcular a quantidade de papel gasto por turno
 - [ ] Ver o negócio de os processos enviarem a quantidade de peças diferente do que está no cartão, talvez falte um treinamento para as pessoas que enviam as peças ou o cartão não está dizendo quantas peças tem que ter
-- [ ] Descobrir quais são os planos de medição que estão dando erro
-- [ ] Tirar fotos das coisas importantes
+- [x] Descobrir quais são os planos de medição que estão dando erro
+- [x] Tirar fotos das coisas importantes
 - [x] Abrir um chamado para as pessoas arrumarem o bgl do Collector
 - [x] Fazer um A3 (Meio feito) ***08/04/2025***
 - [ ] Fazer uma apresentação final
@@ -61,8 +61,8 @@
 - [x] Ir no 101 ver algo de tuxo e ver como os ajustadores lidam com o resultado das medições
 - [x] Treinar a apresentação do checkin
 - [x] Arrumar o tablet que encontramos
-- [ ] Acompanhar um setup
-- [ ] Ver quais resultados os ajustadores estão usando
+- [x] Acompanhar um setup
+- [x] Ver quais resultados os ajustadores estão usando
 - [ ] Descobrir de onde vem o Program Time daquele BI
 - [ ] Ver com a Kassia se ela sabe pq não ta salvando o caminho de exportação
 - [x] Criar o manual para realizar o checkin
