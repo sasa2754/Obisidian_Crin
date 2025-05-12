@@ -51,7 +51,7 @@
 - [ ] Arrumar o problema das máquinas não exportarem, pra daí finalmente a gente conseguir pegar os cartões sem vínculo e arrumar eles
 - [x] Conseguir um tablet provisório para testar se nossa ideia do tablet pros ajustadores vai dar certo antes de realmente comprar os de verdade
 - [x] Arrumar a conexão da 200000023363
-- [ ] Reativar o checkin
+- [x] Reativar o checkin
 - [ ] Arrumar as marsurfs que ainda não estão exportando direito, principalmente aquela do meio
 - [x] Ir na sala de formas do 101 e ver como eles fazem checkin
 - [x] Responder os moços do tablet
@@ -60,13 +60,14 @@
 - [x] Descobrir qual é o usuário certo pra máquina do checkin
 - [x] Ir no 101 ver algo de tuxo e ver como os ajustadores lidam com o resultado das medições
 - [x] Treinar a apresentação do checkin
-- [ ] Arrumar o tablet que encontramos
+- [x] Arrumar o tablet que encontramos
 - [ ] Acompanhar um setup
 - [ ] Ver quais resultados os ajustadores estão usando
 - [ ] Descobrir de onde vem o Program Time daquele BI
 - [ ] Ver com a Kassia se ela sabe pq não ta salvando o caminho de exportação
 - [x] Criar o manual para realizar o checkin
 - [x] Mandar o manual pro Lara
+- [ ] Criar m PowerBI bem fofo com os dados do checkin (Quantas peças estão na sala de formas, quantas peças de cada processo, quando clicar em um processo, abrir as informações das peças que estão lá e tals)
 
 
 # Perguntas pro moço do BDO
