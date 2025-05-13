@@ -7,6 +7,7 @@
 - O paperless ta servindo apenas como uma maneira dos operadores saberem que as medições estão prontas, eles praticamente não usam ele
 
 
+
 # Inventário das máquinas marsurf
 
 - 200000009715 - A do tablet
@@ -44,7 +45,7 @@
 - [x] Conversar com o Lucas pra pedir o excel que ele tava usando pra fazer os vínculos
 - [x] Descobrir quem desabilitou o checkin da sala de formas e pq fez isso ***14/04/2025***
 - [x] Ver como é a priorização das peças na sala de formas e como eles sabem as que estão em processo e as que estão esperando
-- [ ] Resolver o problema da MFU100 e da MFU200 de estar mandando o resultado do primeiro valor que sai pro paperless e não do mais alto
+- [ ] Resolver o problema da MFU100 e da MFU200 de estar mandando o resultado do primeiro valor que sai pro paperless e não do mais alto (Circularidade)
 - [x] Abrir uma ordem para o Diogo Prado ir verificar aquela máquina do canto que não ta se comunicando com a rede
 - [x] Falar com o isaac sobre como funciona o OEE em outras salas de formas
 - [x] Encontrar as IT's que mostram que os operadores precisam fazer checkin quando forem deixar as peças na sala de formas
@@ -68,6 +69,13 @@
 - [x] Criar o manual para realizar o checkin
 - [x] Mandar o manual pro Lara
 - [ ] Criar m PowerBI bem fofo com os dados do checkin (Quantas peças estão na sala de formas, quantas peças de cada processo, quando clicar em um processo, abrir as informações das peças que estão lá e tals)
+- [x] Descobrir pq as peças do IN são medidas aqui, mas o cartão do paperless vai pro 101
+- [ ] Ver como a MFU100 e 200 mandam os resultados pro paperless no bico
+- [ ] Miscelânia mede 3 circularidade e está mandando só a primeira, em vez da mais alta. Ou mandar as 3
+- [ ] Fazer padrões de reação da sala de formas
+- [ ] Ver se o IN vai sair daqui
+- [ ] Fazer uma bancada pro GM
+- [ ] Fazer cartões genéricos para as máquinas da dura, onde a pessoa possa escolher qual máquina é, e não já estar atribuído direto no cartão
 
 
 # Perguntas pro moço do BDO
