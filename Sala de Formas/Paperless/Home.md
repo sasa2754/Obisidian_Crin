@@ -76,6 +76,7 @@
 - [ ] Ver se o IN vai sair daqui
 - [ ] Fazer uma bancada pro GM
 - [ ] Fazer cartões genéricos para as máquinas da dura, onde a pessoa possa escolher qual máquina é, e não já estar atribuído direto no cartão
+- [ ] Fazer um padrão da sala de formas pra caso o cartão não feche, como que cancela ele pra poder limpar a tela do Andon
 
 
 # Perguntas pro moço do BDO
