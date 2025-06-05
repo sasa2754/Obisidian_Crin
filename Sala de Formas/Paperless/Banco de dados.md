@@ -51,3 +51,15 @@ Password:mhJLPwpLwq41
 		where m.LocationDescription like '%CRIN%'
 		order by r.Created desc
 
+- Pegar a criação do terminal de chck-in
+	- Select
+		t.Created as "Data de criação checkin",
+		t.Deleted as "Deletar checkin?",
+		m.Description as "Sala de formas",
+		m.IsCheckinRequired,
+		m.Modified
+		from TerminalCheckIn t
+		inner join MeasureRoom m
+		on m.Id like t.IdMeasureRoom
+		where m.Description like '%201%'
+

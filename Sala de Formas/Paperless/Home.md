@@ -1,11 +1,16 @@
-- Perguntar pro Lara se já existe um padrão de como os operadores da sala de formas enviam as coisas pro paperless
 - 9 Folhas +- para cada peça que passa pela máquina de perfil, para uma medição normal, mas para uma destrutiva é muito mais
 - 1260 folhas gastas por turno
 - Os ajustadores precisam ter dois relatórios: O relatório que deu errado e um relatório bom, para compararem os valores
 - Não estão fazendo Checkin pq o sistema de Checkin bugou um dia e nunca mais voltou, o Isaac vai entrar em contato com o time de desenvolvedores e nos avisar quando responderem
 - A priorização das peças na sala de forma é feita por um tipo de "esteirinha", onde as que chegam primeiro são medidas primeiro e depois retornam pro mesmo lugar onde estavam
 - O paperless ta servindo apenas como uma maneira dos operadores saberem que as medições estão prontas, eles praticamente não usam ele
+- 26 de junho apresentação paperless
 
+
+- 15 medições 1020 dia 21
+- 4 máquinas de medição
+- +- 7 folhas por relatório
+- Total: 420 folhas só da operação 1020 em um dia
 
 
 # Inventário das máquinas marsurf
@@ -64,19 +69,23 @@
 - [x] Arrumar o tablet que encontramos
 - [x] Acompanhar um setup
 - [x] Ver quais resultados os ajustadores estão usando
-- [ ] Descobrir de onde vem o Program Time daquele BI
+- [x] Descobrir de onde vem o Program Time daquele BI
 - [ ] Ver com a Kassia se ela sabe pq não ta salvando o caminho de exportação
 - [x] Criar o manual para realizar o checkin
 - [x] Mandar o manual pro Lara
-- [ ] Criar m PowerBI bem fofo com os dados do checkin (Quantas peças estão na sala de formas, quantas peças de cada processo, quando clicar em um processo, abrir as informações das peças que estão lá e tals)
+- [x] Criar m PowerBI bem fofo com os dados do checkin (Quantas peças estão na sala de formas, quantas peças de cada processo, quando clicar em um processo, abrir as informações das peças que estão lá e tals)
 - [x] Descobrir pq as peças do IN são medidas aqui, mas o cartão do paperless vai pro 101
-- [ ] Ver como a MFU100 e 200 mandam os resultados pro paperless no bico
+- [x] Ver como a MFU100 e 200 mandam os resultados pro paperless no bico
 - [ ] Miscelânia mede 3 circularidade e está mandando só a primeira, em vez da mais alta. Ou mandar as 3
-- [ ] Fazer padrões de reação da sala de formas
+- [x] Fazer padrões de reação da sala de formas
 - [ ] Ver se o IN vai sair daqui
-- [ ] Fazer uma bancada pro GM
-- [ ] Fazer cartões genéricos para as máquinas da dura, onde a pessoa possa escolher qual máquina é, e não já estar atribuído direto no cartão
-- [ ] Fazer um padrão da sala de formas pra caso o cartão não feche, como que cancela ele pra poder limpar a tela do Andon
+- [x] Fazer uma bancada pro GM
+- [x] Fazer cartões genéricos para as máquinas da dura, onde a pessoa possa escolher qual máquina é, e não já estar atribuído direto no cartão
+- [x] Fazer um padrão da sala de formas pra caso o cartão não feche, como que cancela ele pra poder limpar a tela do Andon
+- [x] Arrumar as máquinas que estão enviando no whatsapp
+- [x] Fazer o pc do check-in parar de entrar em modo suspensão
+- [x] Fazer o powerbi das máquinas de medição, para saber como está sendo o desenvolvimento delas durante um dia ou um turno (Colocar filtros)
+- [x] Calcular o gasto de papel da 1020
 
 
 # Perguntas pro moço do BDO
