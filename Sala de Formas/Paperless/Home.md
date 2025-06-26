@@ -6,11 +6,10 @@
 - O paperless ta servindo apenas como uma maneira dos operadores saberem que as medições estão prontas, eles praticamente não usam ele
 - 26 de junho apresentação paperless
 
-
-- 15 medições 1020 dia 21
-- 4 máquinas de medição
+- Uma média de 50 cartões da 1020 por semana
+- 5 máquinas de medição
 - +- 7 folhas por relatório
-- Total: 420 folhas só da operação 1020 em um dia
+- 1750 folhas por semana, só da 1020
 
 
 # Inventário das máquinas marsurf
@@ -39,7 +38,7 @@
 - [x] Perguntar pro Lara pq ele parou de implementar o negócio do paperless do sem vínculo e o que ele fez ***11/04/2025***
 - [x] Falar com o Daniel sobre o tablet que nós achamos ***09/04/2025***
 - [x] Perguntar para os ajustadores se eles precisam de todas as medições que vem no relatório ***09/04/2025***
-- [ ] Mapear o tempo do processo de medição de uma peça e por máquina, igual no processo normal (OEE e ciclo)(Mais ou menos feito)
+- [x] Mapear o tempo do processo de medição de uma peça e por máquina, igual no processo normal (OEE e ciclo)(Mais ou menos feito)
 - [ ] Mapear o ciclo das marsurfs
 - [x] Ver o tempo ocioso dos operadores da sala de formas
 - [x] Ver algum tablet que aguente óleo
@@ -78,7 +77,6 @@
 - [x] Ver como a MFU100 e 200 mandam os resultados pro paperless no bico
 - [ ] Miscelânia mede 3 circularidade e está mandando só a primeira, em vez da mais alta. Ou mandar as 3
 - [x] Fazer padrões de reação da sala de formas
-- [ ] Ver se o IN vai sair daqui
 - [x] Fazer uma bancada pro GM
 - [x] Fazer cartões genéricos para as máquinas da dura, onde a pessoa possa escolher qual máquina é, e não já estar atribuído direto no cartão
 - [x] Fazer um padrão da sala de formas pra caso o cartão não feche, como que cancela ele pra poder limpar a tela do Andon
