@@ -1,4 +1,4 @@
-- #Programador de Máquina Cássia
+- #Programador de Máquina Kassia
 	- Maior problema: Ver as pessoas próximas sofrendo ao tentar usar o [[Sala de Formas/Paperless/Home]], pois disse que ele não funciona bem
 - #Operador Rodrigo
 	- Maior problema: Paperless não funcionar direito e não puxa automaticamente os dados para a medição da peça
@@ -15,7 +15,7 @@
 
 | Cargo       | Nome    | Problemas              |
 | ----------- | ------- | ---------------------- |
-| Programdora | Cassia  | #Nada                  |
+| Programdora | Kassia  | #Nada                  |
 | Operador    | Rodrigo | #Paperless             |
 | Operador    | Marcos  | #Paperless             |
 | Operador    | Mariana | #Nada                  |

@@ -7,4 +7,4 @@
 
 
 
-Após isso as peças vão para a [[Blaichash]] ACHO Q DA PRA POR O LINK AQUI, OPS GRITEI SEM QUERER
+Após isso as peças vão para a [[Blaichash]] 

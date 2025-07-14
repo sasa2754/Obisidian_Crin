@@ -1,59 +1,8 @@
-- Pegar os dados do paperless dos part numbers do grupo induzido e mandar pro excel
-- É pra pegar de novembro até agora
-- Separar por part number e por máquina
-- Part number
-- Operação
-- Máquina
 
+# Projetos
 
-
-# Coisas que eu preciso fazer
-- [ ] Projeto do Paperless
-- [ ] Projeto do Control X
-- [x] Consulta ao banco do paperless do grupo induzido
-- [ ] Ajudar o outro setor com outra coisa do Paperless
-
-
-# Extensões
-- Dataview
-- Charts
-- Iconize
-- Git
-- Excalidraw
-
-
-
-
-```dataviewjs
-const data = dv.pages('')
-
-
-const dict = []
-
-data.forEach(x => {
-	dict.push({title: x.file.name, tags: x.file.tags.length})
-});
-
-const filtered = dict.filter(x => x.tags > 0)
-
-
-const chartData = {
-	type: 'bar',
-	data: {
-		labels: filtered.map(x => x.title),
-		datasets: [{
-			label: "Tags Count",
-			data: filtered.map(x => x.tags)
-		}]
-	}
-}
-
-window.renderChart(chartData, this.container)
-```
-
-
-
-
+- [[SOS Paperless]]
+- [[Okumas e Chirons na Rede]]
 
 
 ```dataviewjs   
@@ -99,3 +48,10 @@ dv.header(3, "Proximo Pagamento💸 → " + moment(next).format("DD/MM/yyyy"))
 dv.header(6, `Ainda faltam ${minutes} minutos!`)
 
 ```
+
+# Extensões
+- Dataview
+- Charts
+- Iconize
+- Git
+- Excalidraw
