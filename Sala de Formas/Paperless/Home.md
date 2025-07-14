@@ -31,7 +31,7 @@
 - [x] Tirar fotos das coisas importantes
 - [x] Abrir um chamado para as pessoas arrumarem o bgl do Collector
 - [x] Fazer um A3 (Meio feito) ***08/04/2025***
-- [ ] Fazer uma apresentação final
+- [x] Fazer uma apresentação final
 - [ ] Arrumar as medições
 - [x] Falar com a Marina sobre o bgl de imprimir só quando da fora da medição e sobre o iconnect na sala de formas ***10/04/2025***
 - [x] Falar com alguém (Ajustador) sobre pq eles não estão fazendo o chekin na sala de formas ***11/04/2025***
@@ -84,6 +84,10 @@
 - [x] Fazer o pc do check-in parar de entrar em modo suspensão
 - [x] Fazer o powerbi das máquinas de medição, para saber como está sendo o desenvolvimento delas durante um dia ou um turno (Colocar filtros)
 - [x] Calcular o gasto de papel da 1020
+- [ ] Entender como a Zeiss ta conectada no paperless na UP (Diferença entre zeiss e DEA)
+- [ ] Ver com a Kassia pq a Zeiss não ta funcionando ou não estão usando ela
+- [ ] Descobrir pq eles querem usar as duas
+- [ ] Descobrir qual exatamente é o problema em usar as duas máquinas juntas
 
 
 # Perguntas pro moço do BDO
